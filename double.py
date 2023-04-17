@@ -1,2 +1,2 @@
 def double(n: int):
-    return 3 * n
+    return 2 * n
